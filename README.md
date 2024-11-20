@@ -1,6 +1,4 @@
-# ERCAnalysis
-
-An analysis of ERC-20 and ERC-721 tokens on the Ethereum blockchain.
+# Comparing Ethereum fungible and non-fungible tokens: an analysis of transfer networks
 
 This GitHub repository contains all code to replicate the experimental results presented in [1].
 
