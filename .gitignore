@@ -1,1 +1,12 @@
+__pycache__/
 .DS_Store
+bin/
+data/*.csv
+data/ft/*.csv
+data/nft/*.csv
+obj/
+results/ft/
+results/nft/
+results/*.csv
+tmp/
+unused/

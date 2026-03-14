@@ -1,3 +1,11 @@
+/**
+ * @file analyzer_full.cpp
+ * @author Matteo Loporchio
+ * 
+ * This program reads a Token Transfer Graph from a file, computes the weakly connected components and the degree of each vertex, and writes the results to an output CSV file. The program also prints some information about the graph and the execution time to the standard output.
+ *
+ */
+
 #include <chrono>
 #include <cstdio>
 #include <cstdlib>
