@@ -1,0 +1,101 @@
+rank	contract_address	label	category
+0	dac17f958d2ee523a2206206994597c13d831ec7	Tether USD (USDT)	defi
+1	c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2	Wrapped Ether (WETH)	defi
+2	a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48	USD Coin (USDC)	defi
+3	6b175474e89094c44da98b954eedeac495271d0f	Dai Stablecoin (DAI)	defi
+4	514910771af9ca656af840dff83e8264ecf986ca	ChainLink Token (LINK)	other
+5	174bfa6600bf90c885c7c01c7031389ed1461ab9	More Gold Coin (MGC)	defi
+6	95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce	SHIBA INU (SHIB)	defi
+7	990f341946a3fdb507ae7e52d17851b87168017c	Strong (STRONG)	defi
+8	58b6a8a3302369daec383334672404ee733ab239	Livepeer Token (LPT)	multimedia
+9	03cb0021808442ad5efb61197966aef72a1def96	coToken (coToken)	defi
+10	1f573d6fb3f13d689ff844b4ce37794d79a7ff1c	Bancor (BNT)	defi
+11	7d1afa7b718fb893db30a3abc0cfc608aacfebb0	Matic Token (MATIC)	layer-2
+12	0d8775f648430679a709e98d2b0cb6250d2887ef	BAT (BAT)	content
+13	2260fac5e5542a773aa44fbcfedf7c193bc2c599	Wrapped BTC (WBTC)	defi
+14	d26114cd6ee289accf82350c8d8487fedb8a0c07	OMG Network (OMG)	layer-2
+15	86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0	EOS (EOS)	layer-2
+16	2b591e99afe9f32eaa6214f7b7629768c40eeb39	HEX.com: HEX Token	defi
+17	1f9840a85d5af5bf1d1762f925bdaddc4201f984	Uniswap Protocol: UNI token	defi
+18	8e870d67f660d95d5be530380d0ec0bd388289e1	Paxos Standard (PAX)	defi
+19	6b3595068778dd592e39a122f4f5a5cf09c90fe2	SushiSwap: SUSHI Token	defi
+20	89d24a6b4ccb1b6faa2625fe562bdd9a23260359	Sai Stablecoin v1.0 (SAI)	defi
+21	f230b790e05390fc8295f4d3f60332c93bed42e2	Tronix (TRX)	blockchain
+22	e62e6e6c3b808faad3a54b226379466544d76ea4	Liberty Cash (LCS)	defi
+23	9813037ee2218799597d83d4a5b6f3b6778218d9	ShibaSwap: BONE Token	defi
+24	d533a949740bb3306d119cc777fa900ba034cd52	Curve.fi: CRV Token	defi
+25	0000000000004946c0e9f43f4dee607b0ef1fa1c	1inch.exchange: CHI Token	defi
+26	f4d2888d29d722226fafa5d9b24f9164c092421e	LooksRare: LOOKS Token	defi
+27	8fdcc30eda7e94f1c12ce0280df6cd531e8365c5	CpcToken (CPCT)	defi
+28	c0829421c1d260bd3cb3e0f06cfe2d52db2ce315	Bancor: ETH Token	defi
+29	cc8fa225d80b9c7d42f96e9570156c65d6caaa25	Axie Infinity: SLP Token	gaming
+30	e41d2489571d322189246dafa5ebde1f4699f498	0x: ZRX Token	defi
+31	0f5d2fb29fb7d3cfee444a200298f468908cc942	Decentraland (MANA)	gaming
+32	ac08809df1048b82959d6251fbc9538920bed1fa	MSD (MSD)	defi
+33	f629cbd94d3791c9250152bd8dfbdf380e2a3b9c	Enjin Coin	gaming
+34	b64ef51c888972c908cfacf59b47c1afbc0ab8ac	Storj (STORJ)	storage
+35	9b9647431632af44be02ddd22477ed94d14aacaa	KOK Coin (KOK)	content
+36	c00e94cb662c3520282e6f5717214004a7f26888	Compound (COMP)	defi
+37	9f8f72aa9304c8b593d555f12ef6589cc3a579a2	Maker (MKR)	defi
+38	dc17e8a84fee8b52e4de7a85160f8cdbb3bb2494	BitAnex Coin (ANEX)	defi
+39	8e766f57f7d16ca50b4a0b90b88f6468a09b0439	Maximine Coin (MXM)	mining
+40	a15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3	Pundi X Token (NPXS)	defi
+41	a821f14fb6394e82839f5161f214cacc90372453	Esch$Token (ESCH$)	blockchain
+42	c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f	Synthetix Network Token (SNX)	defi
+43	0bc529c00c6401aef6d220be8c6ea1667f6ad93e	yearn.finance (YFI) 	defi
+44	dc0327d50e6c73db2f8117760592c8bbf1cdcf38	Stronger (STRNGR)	blockchain
+45	dd974d5c2e2928dea5f71b9825b8b646686bd200	KyberNetwork (KNC)	defi
+46	74fd51a98a4a1ecbef8cc43be801cce630e260bd	SiaCashCoin (SCC)	storage
+47	7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9	Aave: AAVE Token	defi
+48	9e15f8ad98e95033c1d4798458cec34a4b5972b0	Alchemy Coin (ALC)	defi
+49	8b3192f5eebd8579568a2ed41e6feb402f93f73f	Saitama Inu (SAITAMA)	defi
+50	9e9801bace260f58407c15e6e515c45918756e0f	WorldUnitedCoins (WUC)	defi
+51	06a6a7af298129e3a2ab396c9c06f91d3c54aba8	0xUniverse (PLANET)	gaming
+52	a0b73e1ff0b80914ab6fe0444e65848c4c34450b	Cronos Coin (CRO)	defi
+53	0000000000085d4780b73119b644ae5ecd22b376	TrueUSD (TUSD)	defi
+54	21ab6c9fac80c59d401b37cb43f81ea9dde7fe34	Baer Chain (BRC)	gaming
+55	0e50e6d6bb434938d8fe670a2d7a14cd128eb50f	SUM TOKEN (SUT) 	defi
+56	c12d1c73ee7dc3615ba4e37e4abfdbddfa38907e	KickToken (KICK)	defi
+57	a3f440ef604a6380a030360f85bb0dedb6db5a85	Alchemy Coin (ALC)	defi
+58	7b2f9706cd8473b4f5b7758b0171a9933fc6c4d6	An Etheal Promo (HEALP)	other
+59	04abeda201850ac0124161f037efd70c74ddc74c	NEST (NEST)	defi
+60	bb0e17ef65f82ab018d8edd776e8dd940327b28b	Axie Infinity Shard (AXS)	gaming
+61	3845badade8e6dff049820680d1f14bd3903a5d0	SAND (SAND)	gaming
+62	15d4c048f83bd7e37d49ea4c83a07267ec4203da	Gala (GALA)	gaming
+63	c5d105e63711398af9bbff092d4b6769c82f793d	BeautyChain (BEC)	content
+64	426ca1ea2406c07d75db9585f22781c096e3d0e0	Minereum (MNE)	mining
+65	c92e74b131d7b1d46e60e07f3fae5d8877dd03f0	Minereum (MNE)	mining
+66	a5b46ff9a887180c8fb2d97146398ddfc5fef1cd	SuperSkyNet (SSN) 	other
+67	111111111117dc0aa78b770fa6a738034120c302	1INCH Token (1INCH)	defi
+68	cadb96858fe496bb6309622f9023ba2defb5d540	SBToken (SBC)	storage
+69	68e54af74b22acaccffa04ccaad13be16ed14eac	WENI (WENI)	other
+70	b64ffdca47d6c3895608c4e05faba6e617b3a031	flamingostar (FOB)	other
+71	383518188c0c6d7730d91b2c03a03c837814a899	OHM V1 (OHM)	defi
+72	912656188616e0184e3181f019022990a63280b1	POCC (POCC) 	blockchain
+73	744d70fdbe2ba4cf95131626614a1763df805b9e	StatusNetwork (SNT)	other
+74	a74476443119a942de498590fe1f2454d7d4ac0d	Golem (GNT)	layer-2
+75	c944e90c64b2c07662a292be6244bdf05cda44a7	Graph Token (GRT)	other
+76	3506424f91fd33084466f402d5d97f05f8e3b4af	chiliZ (CHZ)	other
+77	4fabb145d64652a948d72533023f6e7a623c7c53	Binance USD (BUSD)	defi
+78	519475b31653e46d20cd09f9fdcf3b12bdacb4f5	VIU (VIU)	multimedia
+79	408e41876cccdc0f92210600ef50372656052a38	Ren Token	defi
+80	bc4162d53f945266684f4e5e48d545f206bc1ca5	ATB Banknote (ATB)	other
+81	b8c77482e45f1f44de1745f52c74426c631bdd52	BNB (BNB)	defi
+82	4e15361fd6b4bb609fa63c81a2be19d873717870	Fantom Token (FTM)	blockchain
+83	52903256dd18d85c2dc4a6c999907c9793ea61e3	INS Promo (INSP)	other
+84	4d224452801aced8b2f0aebe155379bb5d594381	ApeCoin (APE)	content
+85	ba100000625a3754423978a60c9317c58a424e3d	Balancer (BAL)	defi
+86	bbbbca6a901c926f240b89eacb641d8aec7aeafd	LoopringCoin V2 (LRC)	defi
+87	d7cc16500d0b0ac3d0ba156a584865a43b0b0050	Tepleton (TEP)	defi
+88	aaaebe6fe48e54f431b0c390cfaf0b017d09d42d	Celsius (CEL)	defi
+89	573aaaa81154cd24e96f0cb97fd86110b8f6767f	Fus (Fus)	other
+90	653430560be843c4a3d143d0110e896c2ab8ac0d	Molecular Future (MOF)	defi
+91	f5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d	Axie (AXIE)	gaming
+92	62b9f8741bf53a6986a5411c0557c30f6f11f3af	5GH (5GH)	other
+93	d46ba6d942050d489dbd938a2c909a5d5039a161	Ampleforth (AMPL)	defi
+94	27695e09149adc738a978e9a678f99e4c39e9eb9	KickCoin (KICK)	defi
+95	6c6ee5e31d828de241282b9606c8e98ea48526e2	HoloToken (HOT)	other
+96	41e5560054824ea6b0732e656e3ad64e20e94e45	Civic (CVC)	other
+97	7c5cb1220bd293ff9cf903915732e51a71292038	YottaLing (YTL)	storage
+98	57ab1ec28d129707052df4df418d58a2d46d5f51	Synth sUSD (sUSD)	defi
+99	9dffe202df7f82ba57a7f8d571628805eff7fed9	Green (China) ecosystem	other

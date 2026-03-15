@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-#
 #   Author: Matteo Loporchio
 #
 

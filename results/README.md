@@ -1,3 +1,3 @@
 # results
 
-This folder should contains the output files produced during the experiments.
+This folder contains the output files produced during the experiments.

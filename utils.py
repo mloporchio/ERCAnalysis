@@ -1,4 +1,6 @@
 #
+#   This script contains utility functions.
+#
 #   Author: Matteo Loporchio
 #
 

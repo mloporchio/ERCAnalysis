@@ -15,7 +15,18 @@ https://doi.org/10.5281/zenodo.10644076
 To reproduce the experiments, download all files in the repository and place them in the `data` folder of this repository. 
 Please also make sure the files are decompressed before proceeding.
 
-## Technologies used
+# Technologies used
 
-
-
+- Bash scripting
+- C++
+    - igraph (https://igraph.org/)
+- Java
+    - WebGraph (https://webgraph.di.unimi.it/)
+- Python
+    - Matplotlib (https://matplotlib.org/)
+    - Numpy (https://numpy.org/)
+    - Polars (https://pola.rs/)
+    - scikit-learn (https://scikit-learn.org/stable/)
+    - Scipy (https://scipy.org/)
+    - Seaborn (https://seaborn.pydata.org/)
+    
