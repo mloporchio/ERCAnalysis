@@ -6,40 +6,40 @@ rank	contract_address	label	symbol	possible_spam	verified_collection	category
 4	3b3ee1931dc30c1957379fac9aba94d1c48a5405	Foundation	FND	False	True	art
 5	8c9b261faef3b3c2e64ab5e58e04615f8c788099	LucidSight-MLB-NFT	MLBCB	False	True	gaming
 6	50f5474724e0ee42d9a4e711ccfb275809fd6d4a	Sandbox's LANDs	LAND	False	False	virtual-worlds
-7	81ece0e53af51cfb819c57dc24845e46b90b27fb	DusktopiaNFT	DUSK	True	False	None
-8	bd13e53255ef917da7557db1b7d2d5c38a2efe24	DozerDoll	Dozer	False	False	None
+7	81ece0e53af51cfb819c57dc24845e46b90b27fb	DusktopiaNFT	DUSK	True	False	other
+8	bd13e53255ef917da7557db1b7d2d5c38a2efe24	DozerDoll	Dozer	False	False	other
 9	999e88075692bcee3dbc07e7e64cd32f39a1d3ab	Wizards & Dragons Game	WnD	False	False	gaming
 10	87e738a3d5e5345d6212d8982205a564289e6324	Fighter	FIGHTER	False	True	pfps
-11	ea4d123d17b7ab200533388521ae005bfefd8e26	Dusk Topia	DT	True	False	None
+11	ea4d123d17b7ab200533388521ae005bfefd8e26	Dusk Topia	DT	True	False	other
 12	f87e31492faf9a91b02ee0deaad50d51d56d5d4d	Decentraland LAND	LAND	False	True	virtual-worlds
 13	1d963688fe2209a98db35c67a041524822cf04ff	MARBLE-NFT	MRBLNFT	False	False	art
 14	273f7f8e6489682df756151f5525576e322d51a3	MyCryptoHeroes:Hero	MCHH	False	True	gaming
-15	60b74dea92950b9f6564b2c5a7d20482f20f6dc1	Ecotars	ECO	True	False	None
+15	60b74dea92950b9f6564b2c5a7d20482f20f6dc1	Ecotars	ECO	True	False	other
 16	34d85c9cdeb23fa97cb08333b511ac86e1c4e258	Otherdeed	OTHR	False	True	virtual-worlds
 17	dceaf1652a131f32a821468dc03a92df0edd86ea	MyCryptoHeroes:Extension	MCHE	False	True	gaming
 18	66fca7555cd481545a5e66ba9a2bec1e256f98e7	GoldHunter	GOLDH	False	False	gaming
-19	163f4d81d86ac282a0f0f94d9fe3e0321accfd37	Great Goats	GOAT	True	False	None
-20	82315517d61ecf47f9a78705127934f3d431cb21	FaceX	FAX	True	False	None
+19	163f4d81d86ac282a0f0f94d9fe3e0321accfd37	Great Goats	GOAT	True	False	other
+20	82315517d61ecf47f9a78705127934f3d431cb21	FaceX	FAX	True	False	other
 21	c71a726d390bf02b4af8920c0820970310d0f367	MekaApes Game	MAG	False	True	gaming
 22	27b4bc90fbe56f02ef50f2e2f79d7813aa8941a7	gego.dego	GEGO	True	True	art
 23	60e4d786628fea6478f785a6d7e704777c86a7c6	MutantApeYachtClub	MAYC	False	True	pfps
 24	0e9d6552b85be180d941f1ca73ae3e318d2d4f1f	Metroverse City Block	METROBLOCK	False	True	gaming
 25	aadba140ae5e4c8a9ef0cc86ea3124b446e3e46a	MutantCats	MUTCATS	False	True	pfps
-26	534c37fb1fca365b7613e1567221da6876b7edcc	Great Goats NFT	GGN	True	False	None
+26	534c37fb1fca365b7613e1567221da6876b7edcc	Great Goats NFT	GGN	True	False	other
 27	bc4ca0eda7647a8ab7c2061c2e118a18a936f13d	BoredApeYachtClub	BAYC	False	True	pfps
 28	bad6186e92002e312078b5a1dafd5ddf63d3f731	Anonymice	MICE	False	True	pfps
 29	5f4a54e29ccb8a02cdf7d7bfa8a0999a8330cced	Reptile Armoury	ARMS	False	True	gaming
-30	8b77cbe5f54f82ea5d2906ba6a11f9dd55736f58	Primates	PRIMATE	True	False	None
-31	acd91de02b845a0cb85b81b63845737d834844ea	Oak Paradise NFT	OPN	True	False	None
+30	8b77cbe5f54f82ea5d2906ba6a11f9dd55736f58	Primates	PRIMATE	True	False	other
+31	acd91de02b845a0cb85b81b63845737d834844ea	Oak Paradise NFT	OPN	True	False	other
 32	8a90cab2b38dba80c64b7734e58ee1db38b8992e	Doodles	DOODLE	False	True	pfps
 33	93a796b1e846567fe3577af7b7bb89f71680173a	ChainFaces Arena	ლ⚈෴⚈ლ	False	True	art
-34	fe8c6d19365453d26af321d0e8c910428c23873f	Cold Blooded Creepz	CBC	False	False	None
+34	fe8c6d19365453d26af321d0e8c910428c23873f	Cold Blooded Creepz	CBC	False	False	other
 35	7bd29408f11d2bfc23c34f18275bbf23bb716bc7	Meebits	⚇	False	True	pfps
 36	ed5af388653567af2f388e6224dc7c4b3241c544	Azuki	AZUKI	False	True	pfps
 37	7ab2352b1d2e185560494d5e577f9d3c238b78c5	Adam Bomb Squad	ABS	False	True	art
 38	b932a70a57673d89f4acffbe830e8ed7f75fb9e0	SuperRare	SUPR	False	True	art
 39	1a92f7381b9f03921564a437210bb9396471050c	Cool Cats	COOL	False	True	pfps
-40	bce3781ae7ca1a5e050bd9c4c77369867ebc307e	goblintown	GOBLIN	True	False	None
+40	bce3781ae7ca1a5e050bd9c4c77369867ebc307e	goblintown	GOBLIN	True	False	other
 41	c2c747e0f7004f9e8817db2ca4997657a7746928	Hashmasks	HM	False	True	pfps
 42	7ea3cca10668b8346aec0bf1844a49e995527c8b	CyberKongz VX	KONGZ VX	False	True	pfps
 43	364c828ee171616a39897688a831c2499ad972ec	Sappy Seals	SAPS	False	True	pfps
@@ -61,7 +61,7 @@ rank	contract_address	label	symbol	possible_spam	verified_collection	category
 59	dbcab7a768ea9a00b2ffa5a2eb387cad609e2114	Alpha Kongs Club	AKC	False	True	pfps
 60	e785e82358879f061bc3dcac6f0444462d4b5330	World Of Women	WOW	False	True	pfps
 61	5d00d312e171be5342067c09bae883f9bcb2003b	EtheremonMonster	EMONA	False	True	gaming
-62	0419791b7874f7bb719acc521a4dc8f95d7880d5	DusktopiaNFT	DUSK	True	False	None
+62	0419791b7874f7bb719acc521a4dc8f95d7880d5	DusktopiaNFT	DUSK	True	False	other
 63	85f740958906b317de6ed79663012859067e745b	TheWickedCraniums	TWC	False	True	pfps
 64	c92ceddfb8dd984a89fb494c376f9a48b999aafc	Creature World	CREATURE	False	True	art
 65	9f9b2b8e268d06dc67f0f76627654b80e219e1d6	pieceofshit	SHIT	False	True	art
@@ -93,7 +93,7 @@ rank	contract_address	label	symbol	possible_spam	verified_collection	category
 91	96316355c44be69414756d6706c61e61aecbd5f3	Cosmic Labs	CLABS	False	False	pfps
 92	fcb1315c4273954f74cb16d5b663dbf479eec62e	Capsule	CAPSULE	False	True	pfps
 93	d1e5b0ff1287aa9f9a268759062e4ab08b9dacbe	.crypto	UD	False	True	domain-names
-94	05a46f1e545526fb803ff974c790acea34d1f2d6	n	N	False	True	None
+94	05a46f1e545526fb803ff974c790acea34d1f2d6	n	N	False	True	other
 95	ce50f3ca1f1dbd6fa042666bc0e369565dda457d	The Heart Project	HEARTS	False	True	pfps
 96	b4d06d46a8285f4ec79fd294f78a881799d8ced9	3Landers	3L	False	False	pfps
 97	4f89cd0cae1e54d98db6a80150a824a533502eea	Groupies	GROUPIE	False	True	pfps
